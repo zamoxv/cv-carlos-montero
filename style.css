@@ -6,6 +6,12 @@ body {
   padding: 0;
 }
 
+.wrapper{
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
 header {
   text-align: center;
   padding: 2rem 1rem;
@@ -104,3 +110,4 @@ footer {
     font-size: 1.5rem;
   }
 }
+
