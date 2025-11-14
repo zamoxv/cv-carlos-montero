@@ -1,5 +1,5 @@
 # 💼 CV Online — Carlos Andrés Montero Moreno  
-### Ingeniero en Computación e Informática • Desarrollador Full Stack en formación (Programa Mimo)
+### Ingeniero en Computación e Informática • Desarrollador Junior en formación (Programa Mimo)
 
 Este proyecto corresponde a mi **Currículum Vitae en formato web**, desarrollado utilizando **HTML y CSS**, con diseño responsive, traducción al inglés incorporada y un archivo PDF descargable.
 
@@ -55,7 +55,7 @@ No utiliza librerías externas ni frameworks, solo código limpio y sencillo.
 
 ## 🎯 Objetivo profesional
 
-Actualmente me encuentro en transición hacia el desarrollo de software, construyendo proyectos propios y fortaleciendo mis habilidades full stack. Mi meta es integrarme a un equipo TI donde pueda seguir creciendo y aportar con disciplina, pensamiento analítico y una fuerte orientación al aprendizaje.
+Actualmente me encuentro en transición hacia el desarrollo de software, construyendo proyectos propios y fortaleciendo mis habilidades. Mi meta es integrarme a un equipo TI donde pueda seguir creciendo y aportar con disciplina, pensamiento analítico y una fuerte orientación al aprendizaje.
 
 ---
 
