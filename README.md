@@ -8,7 +8,7 @@ El objetivo de este proyecto es presentar mi perfil profesional, habilidades y e
 ---
 
 ## 🌐 Demo en línea  
-🔗 **GitHub Pages:** *(Pendiente)*
+🔗 **GitHub Pages:** *https://zamoxv.github.io/cv-carlos-montero/*
 
 ---
 
