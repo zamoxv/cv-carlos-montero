@@ -8,7 +8,7 @@ El objetivo de este proyecto es presentar mi perfil profesional, habilidades y e
 ---
 
 ## 🌐 Demo en línea  
-🔗 **GitHub Pages:** *(Pendiente)*
+🔗 **GitHub Pages:** https://zamoxv.github.io/cv-carlos-montero/
 
 ---
 
@@ -48,7 +48,7 @@ No utiliza librerías externas ni frameworks, solo código limpio y sencillo.
 ## 📬 Contacto  
 - **Email:** carlos.a.montero.m@gmail.com  
 - **GitHub:** https://github.com/zamoxv  
-- **LinkedIn:** *(pendiente)*  
+- **LinkedIn:** https://linkedin.com/in/carlosmontero-dev  
 - **Ubicación:** Quilpué, Chile  
 
 ---
