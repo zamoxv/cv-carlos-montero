@@ -1,4 +1,4 @@
-let currentLang = "es";
+let currentLang = "en";
 
 function applyLanguage() {
   document.querySelectorAll("[data-es]", "[data-en]").forEach(el => {
