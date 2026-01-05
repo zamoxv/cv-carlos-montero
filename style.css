@@ -27,18 +27,45 @@ header h2 {
   margin-bottom: 1rem;
 }
 
-.download-btn{
-  display: inline-block;
-  padding: 0.7rem 1.2rem;
-  background-color: #2b6cb0;
-  color: white;
+.cv-link {
+  position: relative;
+  font-weight: 500;
   text-decoration: none;
-  border-radius: 8px;
-  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
 }
 
-.download-btn:hover{
-  background-color: #245a8c;
+.cv-link .tooltip {
+  position: absolute;
+  bottom: 130%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #2b6cb0;
+  color: white;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.cv-link .tooltip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-width: 5px;
+  border-style: solid;
+  border-color: #2b6cb0 transparent transparent transparent;
+}
+
+.cv-link:hover .tooltip {
+  opacity: 1;
+  transform: translateX(-50%) translateY(-4px);
 }
 
 #lang-btn{
