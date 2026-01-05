@@ -1,9 +1,9 @@
 # 💼 CV Online — Carlos Andrés Montero Moreno  
-### Ingeniero en Computación e Informática • Desarrollador Junior en formación (Programa Mimo)
+### Computer and Information Engineer • Junior Software Developer
 
-Este proyecto corresponde a mi **Currículum Vitae en formato web**, desarrollado utilizando **HTML y CSS**, con diseño responsive, traducción al inglés incorporada y un archivo PDF descargable.
+Este proyecto corresponde a mi **Currículum Vitae en formato web**, desarrollado utilizando **HTML, CSS y JavaScript**, con diseño responsive, soporte bilingüe (ES/EN) y descarga dinámica de CV en formato PDF según el idioma seleccionado.
 
-El objetivo de este proyecto es presentar mi perfil profesional, habilidades y experiencia de forma clara, moderna y accesible desde cualquier dispositivo.
+El objetivo de este sitio es presentar mi perfil profesional, habilidades técnicas, proyectos y experiencia de forma clara, moderna y accesible desde cualquier dispositivo, orientado a procesos de selección TI.
 
 ---
 
@@ -24,28 +24,54 @@ El CV está organizado en dos columnas y cuenta con las siguientes secciones:
 - **Habilidades Profesionales**
 - **Contacto**
 
-Además, cada sección incluye su **versión en español e inglés**, con estilo visual que diferencia ambas lenguas.
+Cada sección dispone de **versión en español e inglés**, gestionada dinámicamente desde el frontend.
+
+---
+
+## 📄 Descarga de CV en PDF
+El sitio incluye la descarga de mi currículum en formato PDF:
+
+- **Español (ES)**
+- **Inglés (EN)**
+
+La versión descargada se adapta automáticamente al idioma seleccionado en el sitio.
 
 ---
 
 ## 🛠️ Tecnologías utilizadas
 
-- **HTML5** — estructura del sitio  
+- **HTML5** — estructura semántica  
 - **CSS3** — estilos, Grid y Flexbox  
+- **JavaScript** — lógica de idioma y descarga de CV  
 - **Git & GitHub** — control de versiones  
 - **GitHub Pages** — despliegue  
-- **PDF** — versión descargable de mi currículum  
+- **Markdown + PDF** — generación del CV descargable  
 
-No utiliza librerías externas ni frameworks, solo código limpio y sencillo.
+El proyecto no utiliza frameworks ni librerías externas, priorizando **código limpio, simple y mantenible**.
 
 ---
 
 ## 📂 Estructura del proyecto
+```text
+miweb/
+└── cv/
+|    ├── Carlos_Montero_CV_ES.pdf
+|    └── Carlos_Montero_CV_EN.pdf
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```    
+---
 
+## 🎯 Objetivo profesional
+Actualmente me encuentro en transición hacia el desarrollo de software, fortaleciendo mis habilidades en **desarrollo web y backend** mediante proyectos propios y formación práctica.
+
+Busco integrarme a un equipo TI donde pueda seguir creciendo como desarrollador, aportando **disciplina, pensamiento analítico, responsabilidad y una fuerte orientación al aprendizaje continuo**.
 
 ---
 
-## 📬 Contacto  
+## 📬 Contacto
 - **Email:** carlos.a.montero.m@gmail.com  
 - **GitHub:** https://github.com/zamoxv  
 - **LinkedIn:** https://linkedin.com/in/carlosmontero-dev  
@@ -53,17 +79,10 @@ No utiliza librerías externas ni frameworks, solo código limpio y sencillo.
 
 ---
 
-## 🎯 Objetivo profesional
-
-Actualmente me encuentro en transición hacia el desarrollo de software, construyendo proyectos propios y fortaleciendo mis habilidades. Mi meta es integrarme a un equipo TI donde pueda seguir creciendo y aportar con disciplina, pensamiento analítico y una fuerte orientación al aprendizaje.
-
----
-
-## 📝 Licencia  
-Este proyecto es de libre visualización. No se permite su distribución o uso comercial.
+## 📝 Licencia
+Este proyecto es de libre visualización. No se permite su distribución ni uso comercial sin autorización.
 
 ---
 
-## 🙋‍♂️ Gracias por visitar mi CV online  
-Si tienes preguntas, sugerencias o propuestas, estaré encantado de conversar.
-
+## 🙋‍♂️ Gracias por visitar mi CV online
+Si tienes preguntas, comentarios o propuestas, estaré encantado de conversar.
