@@ -10,7 +10,7 @@ function applyLanguage() {
 
   const btn = document.getElementById("lang-btn");
   if (btn) {
-    btn.innerText = currentLang === "es" ? "🌐 Español" : "🌐 English";
+    btn.innerText = currentLang === "es" ? "🌐 English" : "🌐 Español";
   }
 }
 
