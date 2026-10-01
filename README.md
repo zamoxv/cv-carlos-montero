@@ -1,5 +1,5 @@
 # 💼 CV Online — Carlos Andrés Montero Moreno  
-### Computer and Information Engineer • Junior Software Developer
+### Backend Developer • Node.js / TypeScript • Linux • REST APIs • CI/CD
 
 Este proyecto corresponde a mi **Currículum Vitae en formato web**, desarrollado utilizando **HTML, CSS y JavaScript**, con diseño responsive, soporte bilingüe (ES/EN) y descarga dinámica de CV en formato PDF según el idioma seleccionado.
 
@@ -16,12 +16,13 @@ El objetivo de este sitio es presentar mi perfil profesional, habilidades técni
 El CV está organizado en dos columnas y cuenta con las siguientes secciones:
 
 - **Perfil Profesional**
-- **Tech Stack**
+- **Desarrollo** (stack técnico)
+- **Sistemas e Infraestructura**
 - **Proyectos**
 - **Experiencia Profesional**
-- **Educación**
+- **Formación Académica**
+- **Formación Continua y Certificaciones**
 - **Idiomas**
-- **Habilidades Profesionales**
 - **Contacto**
 
 Cada sección dispone de **versión en español e inglés**, gestionada dinámicamente desde el frontend.
@@ -45,7 +46,7 @@ La versión descargada se adapta automáticamente al idioma seleccionado en el s
 - **JavaScript** — lógica de idioma y descarga de CV  
 - **Git & GitHub** — control de versiones  
 - **GitHub Pages** — despliegue  
-- **Markdown + PDF** — generación del CV descargable  
+- **Markdown + Pandoc/LaTeX** — generación del CV descargable con [cv-builder](https://github.com/zamoxv/cv-builder)  
 
 El proyecto no utiliza frameworks ni librerías externas, priorizando **código limpio, simple y mantenible**.
 
@@ -53,10 +54,10 @@ El proyecto no utiliza frameworks ni librerías externas, priorizando **código 
 
 ## 📂 Estructura del proyecto
 ```text
-miweb/
-└── cv/
-|    ├── Carlos_Montero_CV_ES.pdf
-|    └── Carlos_Montero_CV_EN.pdf
+cv-carlos-montero/
+├── cv/
+│   ├── Carlos_Montero_CV_ES.pdf
+│   └── Carlos_Montero_CV_EN.pdf
 ├── index.html
 ├── style.css
 ├── script.js
@@ -65,9 +66,9 @@ miweb/
 ---
 
 ## 🎯 Objetivo profesional
-Actualmente me encuentro en transición hacia el desarrollo de software, fortaleciendo mis habilidades en **desarrollo web y backend** mediante proyectos propios y formación práctica.
+Actualmente trabajo como **desarrollador backend freelance**, construyendo APIs REST y aplicaciones con **Node.js y TypeScript** desplegadas en entornos Linux, y mantengo formación continua en **desarrollo con IA y agentes**.
 
-Busco integrarme a un equipo TI donde pueda seguir creciendo como desarrollador, aportando **disciplina, pensamiento analítico, responsabilidad y una fuerte orientación al aprendizaje continuo**.
+Busco integrarme a un equipo TI donde pueda seguir creciendo como desarrollador, aportando **más de 10 años de experiencia en sistemas críticos de la industria energética**, pensamiento analítico, disciplina y una fuerte orientación al aprendizaje continuo.
 
 ---
 
@@ -75,7 +76,7 @@ Busco integrarme a un equipo TI donde pueda seguir creciendo como desarrollador,
 - **Email:** carlos.a.montero.m@gmail.com  
 - **GitHub:** https://github.com/zamoxv  
 - **LinkedIn:** https://linkedin.com/in/carlosmontero-dev  
-- **Ubicación:** Quilpué, Chile  
+- **Ubicación:** Quilpué, Chile (UTC-3) · Disponible para trabajo remoto  
 
 ---
 
